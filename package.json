@@ -1,0 +1,33 @@
+{
+  "name": "suntfacilis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MattWunsch/suntfacilis.git"
+  },
+  "keywords": [
+    "quo",
+    "fuga",
+    "quo",
+    "ios",
+    "tab",
+    "in"
+  ],
+  "author": "JuniorDooley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MattWunsch/suntfacilis.git/issues"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.20.0"
+  },
+  "homepage": "https://github.com/MattWunsch/suntfacilis.git",
+  "dependencies": {
+    "react-timer-mixin": "^0.13.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "eslint": "^3.1.1"
+  }
+}
